@@ -1,6 +1,6 @@
 # WeatherApp
 
-Une application météo full-stack simple avec un’API Node.js en backend et une interface React (Vite) en frontend. Le backend expose une API REST pour récupérer les données météo actuelles depuis OpenWeatherMap, et le frontend fournit une UI réactive pour interroger la météo d’une ville.
+Une application météo full-stack, composée d'une API Node.js en backend et d'une interface utilisateur React avec Vite. Le backend propose une API REST pour récupérer les données météo en temps réel depuis OpenWeatherMap, tandis que le frontend offre une interface réactive pour consulter la météo par ville.
 
 ---
 
